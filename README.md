@@ -1,5 +1,5 @@
 # Customer-Information-Dashboard for KTM Motorcycle company
-Created an informational dashboard on Excel, utilizing Pivot Tables, charts, and other key excel functions to identify and visualize sales demographics for the Austrian motorcycle company KTM.
+An informational dashboard on Excel, utilizing Pivot Tables, charts, and other key excel functions to identify and visualize sales demographics for the Austrian motorcycle company KTM.
 
 
 # Problem Statement
